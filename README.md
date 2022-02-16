@@ -13,7 +13,6 @@
 ##
 
 <div class="gifs" align="center" display="flex"  column-gap="30">
-<img width="250" class="gatinho" src="https://i.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/GeimqsH0TLDt4tScGw.gif';" alt="">
 <img width="250" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/yYSSBtDgbbRzq.gif';" alt="">
 </div>
 
@@ -46,4 +45,9 @@
   ![Snake animation](https://github.com/santotavio/santotavio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  
+  <div align="center">
+  <img width="300" class="gatinho" src="https://i.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/GeimqsH0TLDt4tScGw.gif';" alt="">
+  </div>
 
