@@ -12,9 +12,9 @@
 
 ##
 
-
-<div align="center">
-<img src="https://i.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/GeimqsH0TLDt4tScGw.gif';" alt="">
+<div class="gifs" align="center" display="flex" flex-wrap="wrap" column-gap="30">
+<img class="gatinho" src="https://i.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/GeimqsH0TLDt4tScGw.gif';" alt="">
+<img width="450" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/yYSSBtDgbbRzq.gif';" alt="">
 </div>
 
   ##
