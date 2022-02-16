@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-CSS" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="" width="" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img align="center" alt="Rafa-CSS" height="" width="" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqDkfhcEGIU27ePSXYknv_A8mb2VTNxK5TQ&usqp=CAU">
+  
 </div>
   
   ##
