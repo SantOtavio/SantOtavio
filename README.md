@@ -9,6 +9,17 @@
 - 📫 @sant_otavio
 - ⚡ "Dont be sorry, be better..."
 
+### Hello world! My name is Otavio Augusto! 👋
+
+
+- 🔭 Currently working at WEG
+- 🌱 Industrial learning of Information Systems Programmer - PSIN 2021 - 2023
+- 👯 Future front-end developer!
+- 🤔 Java, JavaScript, Typescript
+- 💬 16 years
+- 📫 @sant_otavio
+- ⚡ "Dont be sorry, be better..."
+
 
 ##
 
