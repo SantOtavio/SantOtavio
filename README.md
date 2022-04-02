@@ -58,7 +58,9 @@
 </div>
   
   
-  <div align="center">
-  <img width="300" class="gatinho" src="https://i.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/GeimqsH0TLDt4tScGw.gif';" alt="">
-  </div>
+<p align="center">
+  <a href="https://kaiz.vercel.app/now-playing?open">
+    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
+  </a>
+</p>
 
