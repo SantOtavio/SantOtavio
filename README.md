@@ -59,7 +59,7 @@
   
   
 <p align="center">
-  <a href="https://kaiz.vercel.app/now-playing?open">
+  <a href="https://open.spotify.com/user/65hjid7man2ygzsvmpgkxn1i0">
     <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
   </a>
 </p>
