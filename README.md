@@ -5,7 +5,7 @@
 - 🌱 Aprendizagem Industrial de Programador de Sistemas da Informação - PSIN 2021 - 2023
 - 👯 Futuro front-end developer!
 - 🤔 Java, JavaScript, Typescript
-- 💬 16 anos
+- 💬 17 anos
 - 📫 @sant_otavio
 - ⚡ "Dont be sorry, be better..."
 
@@ -16,7 +16,7 @@
 - 🌱 Industrial learning of Information Systems Programmer - PSIN 2021 - 2023
 - 👯 Future front-end developer!
 - 🤔 Java, JavaScript, Typescript
-- 💬 16 years
+- 💬 17 years
 - 📫 @sant_otavio
 - ⚡ "Dont be sorry, be better..."
 
