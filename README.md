@@ -1,3 +1,4 @@
+<div class="principalContainer" style="background-color: blue">
 ### Olá mundo! Meu nome é Otavio Augusto! 👋
 
 
@@ -63,4 +64,5 @@
     <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
   </a>
 </p>
+</div>
 
