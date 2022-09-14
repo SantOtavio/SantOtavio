@@ -1,4 +1,3 @@
-<div class="principalContainer" style="background-color: blue">
 ### Olá mundo! Meu nome é Otavio Augusto! 👋
 
 
@@ -49,20 +48,11 @@
   ##
  
 <div align="center"> 
+  ![Snake animation](https://github.com/santotavio/santotavio/blob/output/github-contribution-grid-snake.svg)
+  
   <a href="https://instagram.com/sant_otavio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jotagege" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:otavio.santos3006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-augusto-dos-santos-292b99210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/santotavio/santotavio/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
-  
-<p align="center">
-  <a href="https://open.spotify.com/user/65hjid7man2ygzsvmpgkxn1i0">
-    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
-  </a>
-</p>
 </div>
 
