@@ -1,13 +1,9 @@
-### Olá mundo! Meu nome é Otavio Augusto! 👋
+<div align="center">
+  
 
+  ![WINWORD_OW7lAySfsQ](https://user-images.githubusercontent.com/90930890/190218336-993a24f6-f6ac-4ec6-a365-8bd440de30d6.gif)
 
-- 🔭 Atualmente trabalhando na empresa WEG
-- 🌱 Aprendizagem Industrial de Programador de Sistemas da Informação - PSIN 2021 - 2023
-- 👯 Futuro front-end developer!
-- 🤔 Java, JavaScript, Typescript
-- 💬 17 anos
-- 📫 @sant_otavio
-- ⚡ "Dont be sorry, be better..."
+ </div>
 
 ### Hello world! My name is Otavio Augusto! 👋
 
@@ -20,14 +16,7 @@
 - 📫 @sant_otavio
 - ⚡ "Dont be sorry, be better..."
 
-
 ##
-
-<div class="gifs" align="center" display="flex"  column-gap="30">
-<img width="250" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/yYSSBtDgbbRzq.gif';" alt="">
-</div>
-
-  ##
 
 <div align="center">
   <a href="https://github.com/SantOtavio">
