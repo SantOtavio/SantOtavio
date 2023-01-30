@@ -10,7 +10,7 @@
 
 - 🔭 Currently working at WEG
 - 🌱 Industrial learning of Information Systems Programmer - PSIN 2021 - 2023
-- 👯 Future front-end developer!
+- 👯 Back-end developer!
 - 🤔 Java, JavaScript, Typescript
 - 💬 17 years
 - 📫 @sant_otavio
