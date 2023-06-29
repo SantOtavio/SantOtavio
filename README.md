@@ -12,7 +12,7 @@
 - 🌱 Industrial learning of Information Systems Programmer - PSIN 2021 - 2023
 - 👯 Back-end developer!
 - 🤔 Java, JavaScript, Typescript
-- 💬 17 years
+- 💬 18 years
 - 📫 @sant_otavio
 - ⚡ "Dont be sorry, be better..."
 
