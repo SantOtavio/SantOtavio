@@ -9,7 +9,7 @@
 
 
 - 🔭 Currently working at WEG
-- 🌱 Industrial learning of Information Systems Programmer - PSIN 2021 - 2023
+- 🌱 Software Projetist
 - 👯 Back-end developer!
 - 🤔 Java, JavaScript, Typescript
 - 💬 18 years
