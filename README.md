@@ -12,6 +12,6 @@
 - 🌱 Software Projetist
 - 👯 Back-end developer!
 - 🤔 Java, JavaScript, Typescript
-- 💬 20 years
+- 💬 21 years
 - 📫 @sant_otavio
 - ⚡ "Dont be sorry, be better..."
